@@ -30,8 +30,7 @@ Regional Insights: Certain states are highly profitable, while others face major
 
 # Data Visualization Using Power BI
 ### Dashboard link
-https://app.powerbi.com/view?r=eyJrIjoiY2MzYWYxMzItNjA4MC00OGJkLTkzNTEtZGU5NzVhNmY3N2
-VmIiwidCI6ImYyNjBlOTRhLTZlMTktNGMwNS04NWU0LTg3MzI5NzEyM2I0MyIsImMiOjEwfQ%3D%3D
+https://app.powerbi.com/view?r=eyJrIjoiY2MzYWYxMzItNjA4MC00OGJkLTkzNTEtZGU5NzVhNmY3N2VmIiwidCI6ImYyNjBlOTRhLTZlMTktNGMwNS04NWU0LTg3MzI5NzEyM2I0MyIsImMiOjEwfQ%3D%3D
 ### Description of the Dataset
 This dataset contains sales transaction records of various products across multiple countries. It includes details on sales representatives, product types, sales amounts, and shipment details. This dataset can be used for analyzing sales trends, product performance, and regional sales distribution, as well as tracking the efficiency of sales representatives.
 ### Dashboard
