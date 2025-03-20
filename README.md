@@ -6,6 +6,7 @@
 This dataset, commonly known as the "Superstore" dataset, contains sales transaction records from a retail store. It includes information on customer orders, shipping details, product categories, and financial metrics like sales, profit, and discounts. This dataset is widely used for sales analysis, profitability insights, and business intelligence reporting. It can be visualized in Tableau to explore sales trends, customer behavior, and regional performance.
 
 ### Dashboard
+![image alt](https://github.com/abyead104/BDA-Projects/blob/07a91b6d969a8840414fa4490fc74c29557d72e6/Superstore%20Dashboard.png)
 
 ### Skills
 Data Cleaning, Data Transformation, Data Visualization
