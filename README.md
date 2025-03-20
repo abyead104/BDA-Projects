@@ -24,13 +24,17 @@ Profit Map represents profit distribution across different states in the USA. Lo
 ### Key Points
 Sales Trends: The monthly sales data indicates consistent growth, with peaks in certain months that could align with holiday seasons or promotional events.
 
+Category Performance: Some sub-categories, like bookcases and binders, generate significant sales but may have varying profit margins.
+
+Regional Insights: Certain states are highly profitable, while others face major losses, suggesting the need for region-specific strategies.
+
 # Data Visualization Using Power BI
 ### Dashboard link
 
 ### Description of the Dataset
 This dataset contains sales transaction records of various products across multiple countries. It includes details on sales representatives, product types, sales amounts, and shipment details. This dataset can be used for analyzing sales trends, product performance, and regional sales distribution, as well as tracking the efficiency of sales representatives.
 ### Dashboard
-![image alt]()
+![image alt](https://github.com/abyead104/BDA-Projects/blob/b3f832dd3870066fa761d91bc9250475aea4cdd3/Sales%20Dashboard%20-%20Power%20BI.png)
 ### Skills
 Data Cleaning, Data Transformation, Data Visualization
 ### Technology
@@ -51,23 +55,3 @@ Some products faced significant sales decreases, requiring targeted promotional 
 Australia and the UK had the highest total sales, highlighting key markets for business expansion.
 
 Certain products consistently performed well, which can guide future product focus and stock management.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Category Performance: Some sub-categories, like bookcases and binders, generate significant sales but may have varying profit margins.
-
-Regional Insights: Certain states are highly profitable, while others face major losses, suggesting the need for region-specific strategies.
-
-
